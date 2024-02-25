@@ -28,3 +28,9 @@ To build:
 ![ports](../img/cases_port.jpeg)
 
 ![side](../img/cases_side.jpeg)
+
+## Notes
+
+- I have printed the case in PLA and PETG without issue.
+- If you choose to use stabilizers, depending on the brand they might fit
+too tightly in the provided cutouts. Some trimming may be required.
